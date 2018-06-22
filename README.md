@@ -11,3 +11,6 @@
   - Users can scan a QR code provided by an organizer to check in
   - Users can enter in a code provided by an organizer to check in
   - When a user signs in, their location and username/NetID are sent to Webtask
+
+## App Flow
+![Flow](https://i.imgur.com/0ReLZY0.png)
